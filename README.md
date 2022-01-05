@@ -9,3 +9,5 @@ head to your .minecraft folder and go into "mods" folder if its not there create
 drag fdp client into mods
 launch forge 1.8
 Enjoy!
+
+(not all modules bypass)
