@@ -1,5 +1,5 @@
 # download-fdp-client
-fdp client a minecraft java editon hack/cheat \
+fdp client a minecraft java editon hack/cheat 
 
 how to install:
 if you havent install forge 1.8 link: https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.html
